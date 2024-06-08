@@ -17,7 +17,7 @@ CSS3: For styling and layout.
 Installation
 To view this project locally, follow these steps:
 
-git clone https://github.com/yourusername/AmazonCloneProject.git
+git clone https://github.com/BOTL2/AmazonCloneProject.git
 cd AmazonCloneProject
 
 Usage
