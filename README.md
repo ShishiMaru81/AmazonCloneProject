@@ -26,12 +26,6 @@ Feel free to explore the HTML and CSS files to understand how the project is str
 Contributing
 If you'd like to contribute to this project, please follow these steps:
 
-Fork the repository.
-Create a new branch
-git checkout -b feature/YourFeatureName
-git commit -m 'Add some feature'
-git push origin feature/YourFeatureName
-
 
 Open a pull request.
 License
